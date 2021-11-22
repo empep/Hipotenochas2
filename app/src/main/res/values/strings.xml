@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Hipotenochas2</string>
+    <string name="instruccciones">Instruccciones</string>
+    <string name="empezar_juego">Empezar juego!</string>
+    <string name="configurar_juego">Configurar juego</string>
+    <string name="seleccionar_personaje">Seleccionar personaje</string>
 </resources>

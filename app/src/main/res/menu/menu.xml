@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/instrucciones"
+        android:icon="@drawable/sort_icon"
+        android:title="@string/instruccciones"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/empezar"
+        android:icon="@drawable/with_arm_up_on_skateboard_icon"
+        android:title="@string/empezar_juego"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/configurar"
+        android:icon="@drawable/mixer_icon"
+        android:title="@string/configurar_juego"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/seleccionar"
+        android:icon="@drawable/hipotenocha_estaciones_web_100p"
+        android:title="@string/seleccionar_personaje"
+        app:showAsAction="always" />
+</menu>
